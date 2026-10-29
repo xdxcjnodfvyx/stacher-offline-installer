@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Video+Downloader-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Stacher Free Installer** — Stacher is a modern, paid YouTube downloader and video management application for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
+**💻 Stacher Free Installer** — Stacher is a beautiful, modern desktop GUI for yt-dlp and youtube-dl on macOS and Windows. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Stacher
 
-Stacher is a modern, paid YouTube downloader and video management application for Windows, macOS, and Linux. Built on yt-dlp with a polished interface, Stacher offers quality selection, subtitle downloads, playlist management, and background downloading. Stacher's subscription model funds active development and provides a cleaner experience than free yt-dlp front-ends.
+Stacher is a beautiful, modern desktop GUI for yt-dlp and youtube-dl on macOS and Windows. It offers a clean drag-and-drop interface, format selection, subtitle downloading, and queue management — making powerful command-line download tools accessible to all users.
 
 ---
 
 ## ❌ Problem: Stacher is hard to access
 
-- **Commercial License** — Paid subscription model
-- **Legal Considerations** — Downloading copyrighted video content may violate platform terms
-- **yt-dlp Dependency** — Platform compatibility tied to yt-dlp development
-- **Competition** — Free yt-dlp front-ends like Parabolic offer similar core functionality
+- **yt-dlp Dependency** — Requires yt-dlp to be installed separately or bundled
+- **Paid License** — Requires purchase; not free software
+- **Platform API Fragility** — Downloads break when platforms change their APIs
+- **Limited Post-Processing** — Cannot edit or tag downloaded files within the app
 
 ---
 
@@ -121,7 +121,7 @@ Stacher is a modern, paid YouTube downloader and video management application fo
 
 ---
 
-**Stacher Free Installer** — Stacher is a modern, paid YouTube downloader and video management application for Windows, macOS, and Linux. Install without internet connection today!
+**Stacher Free Installer** — Stacher is a beautiful, modern desktop GUI for yt-dlp and youtube-dl on macOS and Windows. Install without internet connection today!
 
 <div align="center">
 
